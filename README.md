@@ -24,7 +24,7 @@ Welcome! I'm a second-year Software Engineering student at the University of Sou
 ## 🌐 Languages
 
 - **Polish** – Native
-- **English** – Fluent
+- **English** – Advanced
 - **Danish** – Basic
 
 ---
