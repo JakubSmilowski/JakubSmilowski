@@ -4,8 +4,11 @@
 <p  align="center">
 Welcome! I'm a second-year Software Engineering student at the University of Southern Denmark, passionate about coding, problem-solving, and teamwork. I am always eager to learn and take on new challenges.
 </p>
----
-- My portfolio website: https://jakubsmilowski.netlify.app/
+
+<h3>
+  My portfolio website: https://jakubsmilowski.netlify.app/
+</h3> 
+
 ---
 
 - 🌱 I’m currently learning **Angular**
