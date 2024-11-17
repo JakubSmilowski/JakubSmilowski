@@ -5,6 +5,9 @@
 Welcome! I'm a second-year Software Engineering student at the University of Southern Denmark, passionate about coding, problem-solving, and teamwork. I am always eager to learn and take on new challenges.
 </p>
 
+<h2 align="center">My Website</h2>
+<p align="center">https://jakubsmilowski.netlify.app/</p>
+
 
 ---
 
