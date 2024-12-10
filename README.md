@@ -30,3 +30,7 @@ Welcome! I'm a second-year Software Engineering student at the University of Sou
 - **Danish** – Basic
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JakubSmilowski=anuraghazra&show_icons=true&theme=radical)
+
+---
