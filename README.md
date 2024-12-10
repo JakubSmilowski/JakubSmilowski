@@ -31,6 +31,8 @@ Welcome! I'm a second-year Software Engineering student at the University of Sou
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubSmilowski&show_icons=true&theme=algolia)
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubSmilowski&show_icons=true&theme=midnight-purple)
 
 ---
