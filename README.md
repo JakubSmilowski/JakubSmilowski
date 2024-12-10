@@ -5,9 +5,7 @@
 Welcome! I'm a second-year Software Engineering student at the University of Southern Denmark, passionate about coding, problem-solving, and teamwork. I am always eager to learn and take on new challenges.
 </p>
 
-<h2 align="center">
-  My Website: <a href="https://jakubsmilowski.netlify.app/" style="color: magenta;">https://jakubsmilowski.netlify.app/</a>
-</h2>
+## My Website: 🟪 [https://jakubsmilowski.netlify.app/](https://jakubsmilowski.netlify.app/)
 
 ---
 
