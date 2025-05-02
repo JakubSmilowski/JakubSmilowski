@@ -2,7 +2,7 @@
 <h2 align="center" style="color:#E61CE4;">Software Engineering Student | University of Southern Denmark</h2>
 
 <p align="center" style="color:#E61CE4;">
-Welcome! I'm a second-year Software Engineering student at the University of Southern Denmark, passionate about coding, problem-solving, and teamwork. I am always eager to learn and take on new challenges.
+Welcome! I'm a second-year Software Engineering student at the University of Southern Denmark, passionate about coding, problem-solving, and teamwork. I am always eager to learn and take on new challenges. :)
 </p>
 
 <h3 align="center" style="color:#E61CE4;">My Website: <a href="https://jakubsmilowski.netlify.app/" style="color:#E61CE4;">🟪 jakubsmilowski.netlify.app</a></h3>
