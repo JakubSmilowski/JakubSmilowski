@@ -10,8 +10,8 @@ Welcome! I'm a second-year Software Engineering student at the University of Sou
 ---
 
 <ul style="color:#E61CE4;">
-  <li>✨ I’m currently learning <strong>Angular</strong></li>
-  <li>📧 How to reach me: <strong>jakub.smilowski@protonmail.com</strong></li>
+  <li>✨ I’m currently learning <strong>Kotlin</strong></li>
+  <li>📧 How to reach me: <strong href="https://www.linkedin.com/in/jakubsmilowski/">Linkedin</strong></li>
   <li>⚡ Fun fact: <strong>I love climbing</strong></li>
 </ul>
 
