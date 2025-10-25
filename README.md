@@ -59,6 +59,7 @@ Welcome! I'm a second-year Software Engineering student at the University of Sou
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 <h3 style="color:#E61CE4;">🌐 Languages</h3>
