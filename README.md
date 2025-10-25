@@ -11,7 +11,7 @@ Welcome! I'm a second-year Software Engineering student at the University of Sou
 
 <ul style="color:#E61CE4;">
   <li>✨ I’m currently learning <strong>Kotlin</strong></li>
-  <li>📧 How to reach me: <strong><a href="https://www.linkedin.com/in/jakubsmilowski/"" style="color:#E61CE4;"></strong></li>
+  <li>📧 How to reach me: <strong><a href="https://www.linkedin.com/in/jakubsmilowski/"" style="color:#E61CE4;">Jakub Smilowski on Linkedin</a></strong></li>
   <li>⚡ Fun fact: <strong>I love climbing</strong></li>
 </ul>
 
